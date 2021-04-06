@@ -1,0 +1,193 @@
+
+Рабочий код 100%
+import time
+import datetime
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.options import Options
+#тут подключаете селениум и все.
+
+brawser.get("http://catcut.net/rY7P")
+textarea = brawser.find_element_by_class_name(log)
+textarea.send_keys(mail)
+textarea = brawser.find_element_by_class_name(pas2)
+textarea.send_keys(as1)
+submit = brawser.find_element_by_class_name('main-button-yellow ')
+submit.click()
+WebDriverWait(brawser, 10).until(EC.element_to_be_clickable((By.XPATH, "//html/body/main/div/div/div/div/div/div[5]/button"))).click()
+time.sleep(10)
+
+
+brawser.get("http://catcut.net/DuCP")
+textarea = brawser.find_element_by_class_name(log)
+textarea.send_keys(mail)
+textarea = brawser.find_element_by_class_name(pas2)
+textarea.send_keys(as1)
+submit = brawser.find_element_by_class_name('main-button-yellow ')
+submit.click()
+WebDriverWait(brawser, 10).until(EC.element_to_be_clickable((By.XPATH, "//html/body/main/div/div/div/div/div/div[5]/button"))).click()
+time.sleep(10)
+
+
+brawser.get("http://catcut.net/PuCP" )
+textarea = brawser.find_element_by_class_name(log)
+textarea.send_keys(mail)
+textarea = brawser.find_element_by_class_name(pas2)
+textarea.send_keys(as1)
+submit = brawser.find_element_by_class_name('main-button-yellow ')
+submit.click()
+WebDriverWait(brawser, 10).until(EC.element_to_be_clickable((By.XPATH, "//html/body/main/div/div/div/div/div/div[5]/button"))).click()
+time.sleep(10)
+
+
+brawser.get("http://catcut.net/LuCP" )
+textarea = brawser.find_element_by_class_name(log)
+textarea.send_keys(mail)
+textarea = brawser.find_element_by_class_name(pas2)
+textarea.send_keys(as1)
+submit = brawser.find_element_by_class_name('main-button-yellow ')
+submit.click()
+WebDriverWait(brawser, 10).until(EC.element_to_be_clickable((By.XPATH, "//html/body/main/div/div/div/div/div/div[5]/button"))).click()
+time.sleep(10)
+
+
+brawser.get("http://catcut.net/wY7P" )
+textarea = brawser.find_element_by_class_name(log)
+textarea.send_keys(mail)
+textarea = brawser.find_element_by_class_name(pas2)
+textarea.send_keys(as1)
+submit = brawser.find_element_by_class_name('main-button-yellow ')
+submit.click()
+WebDriverWait(brawser, 10).until(EC.element_to_be_clickable((By.XPATH, "//html/body/main/div/div/div/div/div/div[5]/button"))).click()
+time.sleep(10)
+
+brawser.get("http://catcut.net/TuCP")
+textarea = brawser.find_element_by_class_name(log)
+textarea.send_keys(mail)
+textarea = brawser.find_element_by_class_name(pas2)
+textarea.send_keys(as1)
+submit = brawser.find_element_by_class_name('main-button-yellow ')
+submit.click()
+WebDriverWait(brawser, 10).until(EC.element_to_be_clickable((By.XPATH, "//html/body/main/div/div/div/div/div/div[5]/button"))).click()
+time.sleep(10)
+
+brawser.get("http://catcut.net/DrzP")
+textarea = brawser.find_element_by_class_name(log)
+textarea.send_keys(mail)
+textarea = brawser.find_element_by_class_name(pas2)
+textarea.send_keys(as1)
+submit = brawser.find_element_by_class_name('main-button-yellow')
+submit.click()
+WebDriverWait(brawser, 10).until(EC.element_to_be_clickable((By.XPATH, "//html/body/main/div/div/div/div/div/div[5]/button"))).click()
+time.sleep(10)
+
+brawser.get("http://catcut.net/ivCP")
+textarea = brawser.find_element_by_class_name(log)
+textarea.send_keys(mail)
+textarea = brawser.find_element_by_class_name(pas2)
+textarea.send_keys(as1)
+submit = brawser.find_element_by_class_name('main-button-yellow ')
+submit.click()
+WebDriverWait(brawser, 10).until(EC.element_to_be_clickable((By.XPATH, "//html/body/main/div/div/div/div/div/div[5]/button"))).click()
+time.sleep(10)
+
+brawser.get("http://catcut.net/8vCP")
+textarea = brawser.find_element_by_class_name(log)
+textarea.send_keys(mail)
+textarea = brawser.find_element_by_class_name(pas2)
+textarea.send_keys(as1)
+submit = brawser.find_element_by_class_name('main-button-yellow ')
+submit.click()
+WebDriverWait(brawser, 10).until(EC.element_to_be_clickable((By.XPATH, "//html/body/main/div/div/div/div/div/div[5]/button"))).click()
+time.sleep(10)
+
+brawser.get("http://catcut.net/lvCP")
+textarea = brawser.find_element_by_class_name(log)
+textarea.send_keys(mail)
+textarea = brawser.find_element_by_class_name(pas2)
+textarea.send_keys(as1)
+submit = brawser.find_element_by_class_name('main-button-yellow ')
+submit.click()
+WebDriverWait(brawser, 10).until(EC.element_to_be_clickable((By.XPATH, "//html/body/main/div/div/div/div/div/div[5]/button"))).click()
+time.sleep(10)
+
+brawser.get("http://catcut.net/mvCP")
+textarea = brawser.find_element_by_class_name(log)
+textarea.send_keys(mail)
+textarea = brawser.find_element_by_class_name(pas2)
+textarea.send_keys(as1)
+submit = brawser.find_element_by_class_name('main-button-yellow ')
+submit.click()
+WebDriverWait(brawser, 10).until(EC.element_to_be_clickable((By.XPATH, "//html/body/main/div/div/div/div/div/div[5]/button"))).click()
+time.sleep(10)
+
+brawser.get("http://catcut.net/LrzP")
+textarea = brawser.find_element_by_class_name(log)
+textarea.send_keys(mail)
+textarea = brawser.find_element_by_class_name(pas2)
+textarea.send_keys(as1)
+submit = brawser.find_element_by_class_name('main-button-yellow')
+submit.click()
+WebDriverWait(brawser, 10).until(EC.element_to_be_clickable((By.XPATH, "//html/body/main/div/div/div/div/div/div[5]/button"))).click()
+time.sleep(10)
+
+from time import sleep
+import datetime
+sleep(60*(60-datetime.datetime.now().minute))
+while True:
+    do_smth()
+    sleep(60*60)
+
+
+
+
+
+П.С если код помог то прошу перейдите по мей рефки пж.Лутше регатца на сайте от имени того человека что привел вас.На сайтах много бонусов от меня и сайта.
+
+https://cloud.mail.ru/public/rAP2/sgnTY2w9a
+
+Остальные краны и код можете тот что сыерху копировать и вставить эти ссылки.
+http://catcut.net/ZuCP
+http://catcut.net/ArzP
+http://catcut.net/qY7P
+http://catcut.net/IuCP
+http://catcut.net/mY7P
+http://catcut.net/kY7P
+http://catcut.net/iY7P
+http://catcut.net/hY7P
+http://catcut.net/O98P
+https://free-tron.com/?ref=92748
+соберайте биткоинты каждый час:)
+
+
+
+
+
+m = [sait1, sait2, sait3, sait4, sait5, sait6, sait7, sait8, sait9, sait10, sait11, sait12, sait13]
+
+def Code():
+    textarea1 = brawser.find_element_by_class_name(sss)
+    textarea1.send_keys(code)
+    textarea1.click('span.input-group-btn')
+
+def Danny():
+    textarea = brawser.find_element_by_class_name(log)
+    textarea.send_keys(mail)
+    textarea = brawser.find_element_by_class_name(pas2)
+    textarea.send_keys(as1)
+    submit = brawser.find_element_by_class_name('main-button-yellow ')
+    submit.click()
+    WebDriverWait(brawser, 10).until(
+        EC.element_to_be_clickable((By.XPATH, "//html/body/main/div/div/div/div/div/div[5]/button"))).click()
+    time.sleep(10)
+
+
+def fog():
+    for i in m:
+        brawser.get(i)
+        Danny()
+    if m == stack[-1]:
+        breakpoint(sait13)
+    time.sleep(1200)
+
